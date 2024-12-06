@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="game_start">start</string>
+</resources>
